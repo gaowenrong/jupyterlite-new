@@ -7,7 +7,7 @@ dependencies:
   - ipycanvas
   - pandas
   - numpy
-  - scikit-learn
+  # - scikit-learn
   - matplotlib
-  - statsmodels
+  # - statsmodels
   - seaborn
