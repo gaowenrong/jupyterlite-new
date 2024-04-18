@@ -9,5 +9,6 @@ dependencies:
   - numpy
   # - scikit-learn
   - matplotlib
-  # - statsmodels
   - seaborn
+  - pip:
+    - statsmodels
