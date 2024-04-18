@@ -5,3 +5,9 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - statsmodels
+  - seaborn
